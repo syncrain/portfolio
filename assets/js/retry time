@@ -1,1 +1,4 @@
 
+{
+  "retry_sleep_seconds": 10
+}
