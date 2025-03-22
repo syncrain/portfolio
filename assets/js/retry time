@@ -1,4 +1,4 @@
 
 {
-  "retry_sleep_seconds": 5
+  "retry_sleep_seconds": 3
 }
